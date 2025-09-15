@@ -1,1 +1,1 @@
-Inventory Management Program in Java made for class project
+Inventory Management Program in Java made as a class project
